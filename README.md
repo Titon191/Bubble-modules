@@ -6,7 +6,7 @@ Moduły do silnika bota discord.js [Bubble Engine](https://github.com/Titon191/B
 2. Wklej do pliku skopiowany kod modułu.
 3. Na końcu pliku `functions.js` do `module.exports` dodaj nazwę importowanego modułu. Przykład:
 
-Importowany moduł: `randomNumber`
+Importowany moduły: `randomNumber`, `textPermissions`
 
 Kod:
 
